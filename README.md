@@ -41,14 +41,13 @@
 </div>
 
 ---
-
 ### 🐍 My Contributions
 
 <div align="center">
-  <!-- 这里的图片链接引用了我们将要用 GitHub Actions 自动生成的贪吃蛇动画 -->
+  <!-- 修复了拼写错误 fetwtgreh -> fetwtgrah -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fetwtgreh/fetwtgreh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fetwtgreh/fetwtgreh/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fetwtgreh/fetwtgreh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake-dark.svg">
   </picture>
 </div>
