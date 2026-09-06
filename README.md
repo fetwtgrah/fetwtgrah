@@ -13,8 +13,6 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Bird-nest** — A convenient, out-of-the-box open-source forum system.
-- 🌱 I’m constantly learning and diving deeper into **High-Concurrency Architecture**.
-- 💡 I love exploring new technologies and building things from scratch with my own thinking.
 - 🤔 I’m looking for help with building active open-source communities.
 - 📫 How to reach me: **3483057204@qq.com**
 
