@@ -12,7 +12,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Bird-nest** — A convenient, out-of-the-box open-source forum system.
 - 🤔 I’m looking for help with building active open-source communities.
 - 📫 How to reach me: **3483057204@qq.com**
 
