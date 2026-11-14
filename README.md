@@ -1,134 +1,58 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=FRESH%20%2F%2F%20ENGINEERING&fontSize=32&fontColor=17365D&fontAlign=50&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20EXPLORER&descSize=12&descAlignY=70&color=gradient&customColorList=0,18,35,50,65,80,100" width="100%" />
+# Fresh
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=579DDB&center=true&vCenter=true&width=520&lines=Backend+Engineering;Agent+Infrastructure;Distributed+Systems" />
 
-**ENGINEERING NOTEBOOK · EST. 2026**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Designing+Reliable+Systems;Exploring+Agent+Architecture;Building+Distributed+Infrastructure;Learning+Through+Engineering" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-fetwtgrah-2563EB?style=flat-square&logo=github)](https://github.com/fetwtgrah)
-[![Email](https://img.shields.io/badge/Email-Contact-0EA5A4?style=flat-square&logo=gmail)](mailto:3483057204@qq.com)
-![Status](https://img.shields.io/badge/Status-Under%20Development-16A34A?style=flat-square)
-
-</div>
-
----
-
-## 01 / ENGINEER PROFILE
-
-```yaml
-engineer:
-  name: fresh
-  role: Software Engineering Student
-  interests:
-    - Backend Engineering
-    - Agent Harness Engineering
-    - Distributed Systems
-    - AI Infrastructure
-  current_focus:
-    primary: Go
-    secondary: TypeScript
-    experiments: Python
-  philosophy: "Understand the system, then build it."
-```
-
-I'm interested in the engineering behind intelligent systems — from agent execution and context management to distributed infrastructure and backend architecture.
-
-Currently exploring how reliable software systems are designed, implemented, and operated.
-
-## 02 / TECHNOLOGY STACK
-
-<div align="center">
-
-**PROGRAMMING LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=go,ts,python,java,cpp&theme=light" />
-
-**BACKEND & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,postgres,mysql,redis,git&theme=light" />
-
-</div>
-
-## 03 / SYSTEM DESIGN INTERESTS
-
-```text
-                 ENGINEERING DOMAIN
-                         |
-          +--------------+--------------+
-          |              |              |
-      BACKEND          AGENT         DISTRIBUTED
-          |              |              |
-     API Design      Tool Calling    Scheduling
-     Concurrency     Context Mgmt    Communication
-     Database        Harness         Fault Tolerance
-          |              |              |
-          +--------------+--------------+
-                         |
-                  SYSTEM ENGINEERING
-```
-
-Areas I enjoy exploring:
-
-- **Backend:** concurrency, API design, database systems and service architecture.
-- **Agent:** execution loops, tool orchestration, context engineering and memory.
-- **Distributed:** task scheduling, service communication, fault tolerance and consistency.
-
-## 04 / GITHUB ANALYTICS
-
-<div align="center">
-
-<a href="https://github.com/fetwtgrah">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fetwtgrah&show_icons=true&hide_border=true&bg_color=F4F8FC&title_color=17365D&icon_color=2563EB&text_color=334155&include_all_commits=true" />
-</a>
-<a href="https://github.com/fetwtgrah">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetwtgrah&layout=compact&hide_border=true&bg_color=F4F8FC&title_color=17365D&text_color=334155" />
-</a>
-
-</div>
-
-## 05 / CONTRIBUTION BLUEPRINT
-
-<div align="center">
-
-<img src="https://github.com/fetwtgrah/fetwtgrah/raw/profile-3d-contrib/profile-green.svg" width="100%" alt="3D contribution graph" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/fetwtgrah/fetwtgrah/output/github-snake.svg" width="100%" alt="Contribution activity" />
-</picture>
-
-</div>
-
-## 06 / ENGINEERING PRINCIPLES
-
-<div align="center">
-
-| PRINCIPLE | DESCRIPTION |
-|:---|:---|
-| Simplicity | Keep systems understandable |
-| Reliability | Design for failure |
-| Scalability | Think beyond a single process |
-| Curiosity | Understand how things work |
-| Practice | Learn by building |
+<p>
+  <a href="https://github.com/fetwtgrah">
+    <img src="https://img.shields.io/badge/GitHub-fetwtgrah-24292e?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:3483057204@qq.com">
+    <img src="https://img.shields.io/badge/Email-Contact-579DDB?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+### 01 / About
+
+Building reliable systems and exploring the intersection of **Backend**, **Agent**, and **Distributed Systems**.
+
+### 02 / Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+### 03 / Interests
+
+- Backend Engineering & Concurrency
+- Agent Harness & Context Engineering
+- Distributed Systems & Infrastructure
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=gradient&customColorList=0,18,35,50,65,80,100" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:579DDB,100:9BC7EF&height=2&section=footer&width=800" />
 
-**END OF DOCUMENT · KEEP BUILDING**
-
-<sub>Designed by fresh · Engineering Notebook · 2026</sub>
+*Keep Building. Keep Exploring.*
 
 </div>
